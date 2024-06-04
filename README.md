@@ -9,3 +9,6 @@ Study was conducted on finding variables that related to state COVID-19 death co
 If you have any questions about my research, please email me at:
 
 brady.pinter7704@gmail.com
+
+
+Poverty Data Link : https://data.ers.usda.gov/reports.aspx?ID=17826

@@ -7,7 +7,7 @@ All files present within this gibhub is information/sourcing used for a 2024 res
 Study and research was conducted to find possible correlations between various social/economic factors and state population loss from COVID-19. All data was collected over 3 years, from 2020 to 2023, and was present at the Belmont SURFS, which occured in the summer of 2024. Information was sourced from the CDC, US Census Bureau, and other US Government Sources. All links to data can be found before, with all coming from reliable sourcing.
 
 
-**TO GET STARTED, PLEASE CHECK OUT THE IPYNB FILE FOR ALL CODE.**
+**TO GET STARTED, PLEASE CHECK OUT THE IPYNB FILE FOR ALL CODE, AND THE PDF FOR PAPER.**
 
 If you have any questions about my research, please email me at:
 
